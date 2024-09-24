@@ -2,13 +2,13 @@
 Kita bisa menentukan dimana project akan disimpan.
 ![Menentukan Path Project](image-1.png)
 Pada percobaan ini, saya menggunakan terminal untuk membuat project flutter yang baru.
-Hal itu dilakukan dengan memasukkan perintah 'flutter create <nama-project>'.
+Hal itu dilakukan dengan memasukkan perintah 'flutter create nama-project'.
 ![Membuat Project Flutter Baru di Terminal](image.png)
 
 2. Praktikum 2 - Membuat Repository Github
 Klik pada bagian 'Publish to Github' untuk dibuatkan repository secara otomatis, dan selanjutnya cukup ikuti langkah-langkahnya saja.
-![Publish ke Github Melalui VSCode](image-2.png)
-Jika pada akun github yang kita miliki muncul repository baru seperti gambar diatas, berarti pembuatan repository-nya telah berhasil.
+![Publish ke Github Melalui VSCode](image-2.png)<hr>
+Jika pada akun github yang kita miliki muncul repository baru seperti gambar dibawah, berarti pembuatan repository-nya telah berhasil.
 ![Tampilan Ketika Berhasil](image-3.png)
 
 3. Praktikum 3 - Menerapkan Widget Dasar
@@ -21,6 +21,6 @@ Pertama, buat folder 'assets'. Dan didalamnya buat folder 'images'. Didalam fold
 ![Lokasi Menyimpan Gambar](image-8.png)
 Selain itu, pada file pusbec.yaml perlu dituliskan:
 assets: 
-   - <path_gambar>
+   - path_gambar
 ![File pusbec.yaml](image-9.png)
 
