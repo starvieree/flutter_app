@@ -23,3 +23,4 @@ Selain itu, pada file pusbec.yaml perlu dituliskan:
 assets: 
    - <path_gambar>
 ![File pusbec.yaml](image-9.png)
+
