@@ -23,5 +23,6 @@ Selain itu, pada file pusbec.yaml perlu dituliskan:
 assets: 
    - path_gambar
 ![File pusbec.yaml](image-9.png)
+![Hasil praktikum](text-dan-image-widget.jpeg)
 
-4. Praktikum 4 - 
+4. Praktikum 4 - Menerapkan Widget Material Design dan iOS Cupertino
