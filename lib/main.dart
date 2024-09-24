@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/widget/img.dart';
-import 'package:flutter_app/widget/tes_widget.dart';
+import 'package:flutter_app/widget/imageWidget.dart';
+import 'package:flutter_app/widget/textWidget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -47,12 +47,12 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text(widget.title),
       ),
-      body: Center(
+      body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const ImageWidget(),
-            const TextWidget(),
+            ImageWidget(),
+            TextWidget(),
           ],
         ),
       ),
