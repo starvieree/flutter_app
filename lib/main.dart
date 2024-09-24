@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Floating Action Button',
+      title: 'Cupertino Button dan Loading Bar',
       home: LoadingCupertino(),
     );
   }
