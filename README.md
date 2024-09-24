@@ -43,3 +43,8 @@ Untuk file main.dart nya.
 Tampilan hasil praktikum
 ![Hasil Praktikum](fab-widget.jpeg)
 
+c. Scaffold Widget
+Tampilan hasil praktikum
+![Hasil Praktikum](scaffold-widget.jpeg)
+
+d. Dialog Widget
