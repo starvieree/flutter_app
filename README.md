@@ -36,3 +36,6 @@ Tampilan hasil praktikum
 ![Hasil Praktikum](loading-cupertino.jpeg)
 
 b. Floating Action Button (FAB)
+Buat file fab_widget.dart didalam folder basic_widget.
+![Source Code File fab_widget.dart](image-12.png)
+Untuk file main.dart nya.
