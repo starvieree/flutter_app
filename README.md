@@ -7,7 +7,7 @@ Hal itu dilakukan dengan memasukkan perintah 'flutter create nama-project'.
 
 2. Praktikum 2 - Membuat Repository Github
 Klik pada bagian 'Publish to Github' untuk dibuatkan repository secara otomatis, dan selanjutnya cukup ikuti langkah-langkahnya saja.
-![Publish ke Github Melalui VSCode](image-2.png)<hr>
+![Publish ke Github Melalui VSCode](image-2.png)
 Jika pada akun github yang kita miliki muncul repository baru seperti gambar dibawah, berarti pembuatan repository-nya telah berhasil.
 ![Tampilan Ketika Berhasil](image-3.png)
 
@@ -24,3 +24,4 @@ assets:
    - path_gambar
 ![File pusbec.yaml](image-9.png)
 
+4. Praktikum 4 - 
