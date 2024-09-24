@@ -16,3 +16,10 @@ Buat file imageWidget.dart dan textWidget.dart didalam folder widget.
 ![Management File](image-4.png)
 ![Source Code File textWidget.dart](image-6.png)
 ![Source Code File imageWidget.dart](image-7.png)
+Untuk menampilkan gambarnya, perlu percobaan tambahan.
+Pertama, buat folder 'assets'. Dan didalamnya buat folder 'images'. Didalam folder 'image' tersebut digunakan untuk menyimpan gambar yang diperlukan didalam apps.
+![Lokasi Menyimpan Gambar](image-8.png)
+Selain itu, pada file pusbec.yaml perlu dituliskan:
+assets: 
+   - <path_gambar>
+![File pusbec.yaml](image-9.png)
