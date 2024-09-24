@@ -48,3 +48,12 @@ Tampilan hasil praktikum
 ![Hasil Praktikum](scaffold-widget.jpeg)
 
 d. Dialog Widget
+Tampilan hasil praktikum
+![Hasil Praktikum](dialog-widget.jpeg)
+
+e. Input dan Selection Widget
+Tampilan hasil praktikum
+![Hasil Praktikum](input-dan-selection-widget.jpeg)
+
+f. Date and Time Pickers
+Tampilan hasil praktikum
