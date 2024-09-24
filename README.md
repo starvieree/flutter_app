@@ -28,4 +28,11 @@ Tampilan Hasil Praktikum
 
 4. Praktikum 4 - Menerapkan Widget Material Design dan iOS Cupertino
 a. Cupertino Button
+Buat file loading_cupertino.dart didalam folder basic_widget.
+![Source Code File loading_cupertino.dart](image-10.png)
+Untuk file main.dart nya.
+![Source Code File main.dart](image-11.png)
+Tampilan hasil praktikum
+![Hasil Praktikum](loading-cupertino.jpeg)
+
 b. Floating Action Button (FAB)
