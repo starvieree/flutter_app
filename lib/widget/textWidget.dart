@@ -4,7 +4,10 @@ class TextWidget extends StatelessWidget {
   const TextWidget({super.key});
 
   Widget build(BuildContext context) {
-    return const Text("Belajar Flutter | Kelas 2B");
+    return const Text(
+      "Nama saya Ainur Reza, sedang belajar Pemrograman Mobile",
+      style: TextStyle(color: Colors.red, fontSize: 14),
+      textAlign: TextAlign.center);
   }
 }
 
