@@ -45,8 +45,8 @@ showAlertDialog(BuildContext context) {
 
   // set up the AlertDialog
   AlertDialog alert = AlertDialog(
-    title: const Text("My title"),
-    content: const Text("This is my message."),
+    title: const Text("Success"),
+    content: const Text("Selamat, Anda berhasil masuk ke aplikasi."),
     actions: [
       okButton,
     ],
