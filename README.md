@@ -2,7 +2,7 @@ Laporan Praktikum
 
 1. Praktikum 1 - Membuat Project Flutter Baru
 Kita bisa menentukan dimana project akan disimpan.
-![Menentukan-Path-Project](image-1.png)
+![Gambar](image-1.png)
 Pada percobaan ini, saya menggunakan terminal untuk membuat project flutter yang baru.
 Hal itu dilakukan dengan memasukkan perintah 'flutter create nama-project'.
 ![Membuat Project Flutter Baru di Terminal](image.png)
